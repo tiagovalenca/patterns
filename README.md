@@ -1,2 +1,2 @@
 # patterns
-Trabalho de Ferraz
+Design Patterns implementation in C and Java
