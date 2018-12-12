@@ -36,7 +36,7 @@ class TeaShop(object):
 
     def serve(self):
         for table, orders in self.__orders.iteritems():
-            print u'Serving tea to table {}'.format(table)
+            print (u'Serving tea to table {}'.format(table))
 
 if __name__ == u'__main__':
     tea_maker = TeaMaker()
