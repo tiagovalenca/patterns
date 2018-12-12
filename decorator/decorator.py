@@ -17,7 +17,7 @@ def time_this(func):
 def count(until):
     """Counts to 'until', then returns the result"""
 
-    print "Counting to", until, "…"
+    print "Counting to", until, "â€¦"
     num = 0
     for i in xrange(to_num(until)):
         num += 1
